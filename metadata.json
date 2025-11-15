@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Beho Notes",
+  "description": "A premium, offline-first PWA for notes and calculations. Your thoughts and numbers, saved directly on your device.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
