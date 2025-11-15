@@ -3,21 +3,22 @@
   "name": "Beho Notes",
   "description": "A premium, offline-first PWA for notes and calculations. Your thoughts and numbers, saved directly on your device.",
   "icons": [
-    {
-      "src": "/icon-192x192.png",
-      "type": "image/png",
-      "sizes": "192x192",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "/icon-512x512.png",
-      "type": "image/png",
-      "sizes": "512x512",
-      "purpose": "any maskable"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#1a1a1a",
-  "background_color": "#1a1a1a"
-}
+  {
+    "src": "icon-192x192.png",
+    "type": "image/png",
+    "sizes": "192x192",
+    "purpose": "any"
+  },
+  {
+    "src": "icon-512x512.png",
+    "type": "image/png",
+    "sizes": "512x512",
+    "purpose": "any"
+  },
+  {
+    "src": "icon-512x512.png",
+    "type": "image/png",
+    "sizes": "512x512",
+    "purpose": "maskable"
+  }
+]
